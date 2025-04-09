@@ -2,6 +2,7 @@
 <h3 align="center">Graduate student in Oxford University</h3>
 
 <h3 align="left">Connect with me:</h3>
+Yunjia.Qi21@student.xjtlu.edu.cn
 <p align="left">
 </p>
 
